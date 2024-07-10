@@ -1,0 +1,5 @@
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Sinch\obj\Debug\net7.0\Sinch.csproj.AssemblyReference.cache
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Sinch\obj\Debug\net7.0\Sinch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Sinch\obj\Debug\net7.0\Sinch.AssemblyInfoInputs.cache
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Sinch\obj\Debug\net7.0\Sinch.AssemblyInfo.cs
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Sinch\obj\Debug\net7.0\Sinch.csproj.CoreCompileInputs.cache

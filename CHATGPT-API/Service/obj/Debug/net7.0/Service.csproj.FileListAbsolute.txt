@@ -1,0 +1,11 @@
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\bin\Debug\net7.0\Service.deps.json
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\bin\Debug\net7.0\Service.dll
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\bin\Debug\net7.0\Service.pdb
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\Service.dll
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\refint\Service.dll
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\Service.pdb
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\Service\obj\Debug\net7.0\ref\Service.dll

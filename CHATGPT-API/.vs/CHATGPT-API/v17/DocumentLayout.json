@@ -1,0 +1,750 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{802B1D32-0422-49B5-8915-A4904FD99E00}|Domain\\Domain.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\domain\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B1D32-0422-49B5-8915-A4904FD99E00}|Domain\\Domain.csproj|solutionrelative:domain\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B1D32-0422-49B5-8915-A4904FD99E00}|Domain\\Domain.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\domain\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B1D32-0422-49B5-8915-A4904FD99E00}|Domain\\Domain.csproj|solutionrelative:domain\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C708A1-7117-4187-AE8B-67B864F44AD3}|Infraestructure\\Infraestructure.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7C708A1-7117-4187-AE8B-67B864F44AD3}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C708A1-7117-4187-AE8B-67B864F44AD3}|Infraestructure\\Infraestructure.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\infraestructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C708A1-7117-4187-AE8B-67B864F44AD3}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8FD89C-DF00-4634-A33E-FDF185F2F0C3}|Service\\Service.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\service\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8FD89C-DF00-4634-A33E-FDF185F2F0C3}|Service\\Service.csproj|solutionrelative:service\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\controllers\\preguntascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\controllers\\preguntascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\chatgpt-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\chatgpt-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8FD89C-DF00-4634-A33E-FDF185F2F0C3}|Service\\Service.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF8FD89C-DF00-4634-A33E-FDF185F2F0C3}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\controllers\\respuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\controllers\\respuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009E1968-E65C-4E01-9C47-98039440E997}|Common.AspNetCore\\Common.AspNetCore.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\common.aspnetcore\\common.aspnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{009E1968-E65C-4E01-9C47-98039440E997}|Common.AspNetCore\\Common.AspNetCore.csproj|solutionrelative:common.aspnetcore\\common.aspnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C53EF-0E8E-4F29-B6EA-368AB150D6C0}|SolutionFiles\\SolutionFiles.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\solutionfiles\\solutionfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{014C53EF-0E8E-4F29-B6EA-368AB150D6C0}|SolutionFiles\\SolutionFiles.csproj|solutionrelative:solutionfiles\\solutionfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\models\\pront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\models\\pront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\response\\categoriaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\response\\categoriaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\request\\detallerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\request\\detallerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\response\\detalleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\response\\detalleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\response\\prontresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\response\\prontresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\request\\prontrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\request\\prontrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\response\\respuestaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\response\\respuestaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\request\\respuestarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\request\\respuestarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\response\\preguntaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\response\\preguntaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\request\\preguntarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\request\\preguntarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\response\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\response\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\request\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\request\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\request\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\request\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\models\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\models\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\model\\models\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F07AF2B-09A8-4753-9E79-9432EBC5CBB3}|Model\\Model.csproj|solutionrelative:model\\models\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A9D802-F8B8-45F4-98E9-6B22AD852205}|Common\\Common.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01A9D802-F8B8-45F4-98E9-6B22AD852205}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\chatgpt-api\\chatgpt-api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0EA1061A-5EF6-4DF8-8A87-DC7F22ACCEA4}|CHATGPT-API\\CHATGPT-API.csproj|solutionrelative:chatgpt-api\\chatgpt-api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED64ACE-397D-4B3F-87E0-7A21CF0AADC3}|Sinch\\Sinch.csproj|d:\\trabo_torrico\\chatgpt-api\\chatgpt-api\\sinch\\sinch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ED64ACE-397D-4B3F-87E0-7A21CF0AADC3}|Sinch\\Sinch.csproj|solutionrelative:sinch\\sinch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CHATGPT-API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T15:49:58.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\appsettings.json",
+              "RelativeDocumentMoniker": "CHATGPT-API\\appsettings.json",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\appsettings.json",
+              "RelativeToolTip": "CHATGPT-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T15:49:50.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prueba.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Domain\\Prueba.cs",
+              "RelativeDocumentMoniker": "Domain\\Prueba.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Domain\\Prueba.cs",
+              "RelativeToolTip": "Domain\\Prueba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:47:21.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Infraestructure",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T15:39:20.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Domain\\demo.cs",
+              "RelativeDocumentMoniker": "Domain\\demo.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Domain\\demo.cs",
+              "RelativeToolTip": "Domain\\demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:38:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatGptService.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Service\\ChatGptService.cs",
+              "RelativeDocumentMoniker": "Service\\ChatGptService.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Service\\ChatGptService.cs",
+              "RelativeToolTip": "Service\\ChatGptService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:15:41.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Infraestructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\AppDbContext.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Infraestructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:00:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Program.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Program.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Program.cs",
+              "RelativeToolTip": "CHATGPT-API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:11:57.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Controllers\\CategoriasController.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "CHATGPT-API\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:17:52.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PreguntasController.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\PreguntasController.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Controllers\\PreguntasController.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\PreguntasController.cs",
+              "RelativeToolTip": "CHATGPT-API\\Controllers\\PreguntasController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:05:40.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CHATGPT-API.csproj",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API.csproj",
+              "RelativeDocumentMoniker": "CHATGPT-API\\CHATGPT-API.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API.csproj",
+              "RelativeToolTip": "CHATGPT-API\\CHATGPT-API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T14:56:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\Categoria.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Categoria.cs",
+              "RelativeToolTip": "Model\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:03:35.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T14:23:55.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatGptController.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\ChatGptController.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Controllers\\ChatGptController.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\ChatGptController.cs",
+              "RelativeToolTip": "CHATGPT-API\\Controllers\\ChatGptController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:11:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Detalle.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\Detalle.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Detalle.cs",
+              "RelativeToolTip": "Model\\Models\\Detalle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:06:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RespuestasController.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\RespuestasController.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Controllers\\RespuestasController.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\RespuestasController.cs",
+              "RelativeToolTip": "CHATGPT-API\\Controllers\\RespuestasController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:09:07.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Model\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:36:27.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Common.AspNetCore.csproj",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Common.AspNetCore\\Common.AspNetCore.csproj",
+              "RelativeDocumentMoniker": "Common.AspNetCore\\Common.AspNetCore.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Common.AspNetCore\\Common.AspNetCore.csproj",
+              "RelativeToolTip": "Common.AspNetCore\\Common.AspNetCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T15:44:23.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SolutionFiles.csproj",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\SolutionFiles\\SolutionFiles.csproj",
+              "RelativeDocumentMoniker": "SolutionFiles\\SolutionFiles.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\SolutionFiles\\SolutionFiles.csproj",
+              "RelativeToolTip": "SolutionFiles\\SolutionFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T15:44:24.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "CHATGPT-API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:01:41.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CHATGPT-API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:25:14.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\WeatherForecast.cs",
+              "RelativeToolTip": "CHATGPT-API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:32:05.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pront.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Pront.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\Pront.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Pront.cs",
+              "RelativeToolTip": "Model\\Models\\Pront.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:05:56.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriaResponse.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\CategoriaResponse.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\CategoriaResponse.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\CategoriaResponse.cs",
+              "RelativeToolTip": "Model\\Response\\CategoriaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:04:22.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T15:10:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\Usuario.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Usuario.cs",
+              "RelativeToolTip": "Model\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:04:36.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DetalleRequest.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\DetalleRequest.cs",
+              "RelativeDocumentMoniker": "Model\\Request\\DetalleRequest.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\DetalleRequest.cs",
+              "RelativeToolTip": "Model\\Request\\DetalleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:10:15.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CHATGPT-API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CHATGPT-API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:06:47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetalleResponse.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\DetalleResponse.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\DetalleResponse.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\DetalleResponse.cs",
+              "RelativeToolTip": "Model\\Response\\DetalleResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:10:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProntResponse.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\ProntResponse.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\ProntResponse.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\ProntResponse.cs",
+              "RelativeToolTip": "Model\\Response\\ProntResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:09:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProntRequest.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\ProntRequest.cs",
+              "RelativeDocumentMoniker": "Model\\Request\\ProntRequest.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\ProntRequest.cs",
+              "RelativeToolTip": "Model\\Request\\ProntRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:08:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RespuestaResponse.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\RespuestaResponse.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\RespuestaResponse.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\RespuestaResponse.cs",
+              "RelativeToolTip": "Model\\Response\\RespuestaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:08:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RespuestaRequest.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\RespuestaRequest.cs",
+              "RelativeDocumentMoniker": "Model\\Request\\RespuestaRequest.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\RespuestaRequest.cs",
+              "RelativeToolTip": "Model\\Request\\RespuestaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:07:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PreguntaResponse.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\PreguntaResponse.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\PreguntaResponse.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\PreguntaResponse.cs",
+              "RelativeToolTip": "Model\\Response\\PreguntaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:07:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PreguntaRequest.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\PreguntaRequest.cs",
+              "RelativeDocumentMoniker": "Model\\Request\\PreguntaRequest.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\PreguntaRequest.cs",
+              "RelativeToolTip": "Model\\Request\\PreguntaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:06:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UsuarioResponse.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\UsuarioResponse.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\UsuarioResponse.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Response\\UsuarioResponse.cs",
+              "RelativeToolTip": "Model\\Response\\UsuarioResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:06:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UsuarioRequest.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "Model\\Request\\UsuarioRequest.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\UsuarioRequest.cs",
+              "RelativeToolTip": "Model\\Request\\UsuarioRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:05:43.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoriaRequest.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\CategoriaRequest.cs",
+              "RelativeDocumentMoniker": "Model\\Request\\CategoriaRequest.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Request\\CategoriaRequest.cs",
+              "RelativeToolTip": "Model\\Request\\CategoriaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:03:41.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Pregunta.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Pregunta.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\Pregunta.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Pregunta.cs",
+              "RelativeToolTip": "Model\\Models\\Pregunta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:18:45.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Respuesta.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\Respuesta.cs",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Model\\Models\\Respuesta.cs",
+              "RelativeToolTip": "Model\\Models\\Respuesta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:19:08.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T15:44:21.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CHATGPT-API",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API.csproj",
+              "RelativeDocumentMoniker": "CHATGPT-API\\CHATGPT-API.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API\\CHATGPT-API.csproj",
+              "RelativeToolTip": "CHATGPT-API\\CHATGPT-API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T15:43:44.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Sinch.csproj",
+              "DocumentMoniker": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Sinch\\Sinch.csproj",
+              "RelativeDocumentMoniker": "Sinch\\Sinch.csproj",
+              "ToolTip": "D:\\Trabo_torrico\\CHATGPT-API\\CHATGPT-API\\Sinch\\Sinch.csproj",
+              "RelativeToolTip": "Sinch\\Sinch.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T15:14:09.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
